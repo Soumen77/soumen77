@@ -1,3 +1,4 @@
+![logo](https://github.com/soumen776/soumen776/blob/main/1685544905268.jfif)
 <h1 align="center">Hi 👋, I'm Soumen Kundu</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
