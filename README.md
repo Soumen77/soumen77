@@ -33,15 +33,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ## 🛠 Tools & Platforms
 ![IBM FileNet P8](https://img.shields.io/badge/FileNet%20P8-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![WAS](https://img.shields.io/badge/WebSphere%20Application%20Server-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![IBM Datacap](https://img.shields.io/badge/Datacap-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
 ![IBM Content Navigator](https://img.shields.io/badge/Content%20Navigator-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -49,6 +46,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -69,12 +69,9 @@
 ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 📜 Certifications
-[![Oracle Certified Java SE Programmer](https://img.shields.io/badge/Oracle%20Certified%20Java%20SE%20Programmer-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/java-se-programmer/pexam_1Z0-819)
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![IBM FileNet P8 Administrator](https://img.shields.io/badge/IBM%20FileNet%20P8%20Administrator-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/training/certification/C0010300)
-[![Python for Data Science (Coursera)](https://img.shields.io/badge/Python%20for%20Data%20Science-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
-[![SQL Fundamentals](https://img.shields.io/badge/SQL%20Fundamentals-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.datacamp.com/courses/sql-fundamentals)
-
+- **PHP With MYSQL**
+- **Career Essentials in Data Analysis by Microsoft and LinkedIn**
+- **AI Tools Workshop**
 ---
 
 ## 📊 GitHub Stats
