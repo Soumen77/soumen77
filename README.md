@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🔭 **Currently working on:** FileNet P8 Migration Project  
-- 🌱 **Learning:** Spring Boot & AI Modules  
+- 🌱 **Learning:** Data Analyst
 - 🤝 **Looking to collaborate on:** AI Modules, Java, SQL, and FileNet P8 projects  
 - 💬 **Ask me about:** Java, SQL, FileNet P8, IBM Datacap  
 - 📫 **How to reach me:** [worksoumen14@gmail.com](mailto:worksoumen14@gmail.com)  
@@ -55,8 +55,6 @@
 ## 🗄 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Oracle 11g](https://img.shields.io/badge/Oracle%20DB-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![DB2](https://img.shields.io/badge/DB2-%23006FAD.svg?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
