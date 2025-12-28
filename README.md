@@ -10,7 +10,7 @@
 ## 🚀 About Me
 I am a **Software Engineer with 2+ years of experience** in enterprise content management and Java-based applications, currently transitioning into the **Data Analytics** domain. I enjoy transforming raw data into meaningful insights and building dashboards that support data-driven decision-making.
 
-- 🔭 **Currently working on:** IBM FileNet P8 Migration Project  
+- 🔭 **Currently working on:** Data Analytics Project  
 - 🌱 **Currently learning:** Data Analytics (Excel, SQL, Power BI, Python)  
 - 📊 **Aspiring role:** Data Analyst / Business Analyst  
 - 🤝 **Open to collaborate on:** Data Analytics, Power BI, SQL, Python, Java & ECM projects  
@@ -79,19 +79,18 @@ I am a **Software Engineer with 2+ years of experience** in enterprise content m
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=soumen77&show_icons=true&theme=dark" />
 <img src="https://streak-stats.demolab.com?user=soumen77&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen77&layout=compact&theme=dark" />
 
 ---
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=soumen77&theme=dark&no-frame=true&margin-w=10" />
+## 🔝 Featured Projects
+- 📊 **Mobile Sales Dashboard – Power BI**  
+  Interactive dashboard analyzing mobile sales trends, KPIs, and regional insights.  
+  🔗 https://github.com/Soumen77/Mobile-Sales-Dashboard
 
----
-
-## 🔝 Top Contributed Repositories
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=soumen77&repo=Mobile-Sales-Dashboard&theme=dark" />
+- 🌍 **Personal Portfolio Website**  
+  Responsive portfolio showcasing my projects, skills, and professional journey, built using web technologies.  
+  🔗 https://github.com/Soumen77/soumen77.github.io
 
 ---
 
