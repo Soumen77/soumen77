@@ -79,13 +79,19 @@ I am a **Software Engineer with 2+ years of experience** in enterprise content m
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=soumen77&theme=blue-green&hide_border=false&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=soumen77&theme=blue-green)
+<img src="https://github-readme-stats.vercel.app/api?username=soumen77&show_icons=true&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=soumen77&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen77&layout=compact&theme=dark" />
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soumen77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=soumen77&theme=dark&no-frame=true&margin-w=10" />
+
+---
+
+## 🔝 Top Contributed Repositories
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=soumen77&repo=Mobile-Sales-Dashboard&theme=dark" />
 
 ---
 
