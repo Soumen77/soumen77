@@ -1,91 +1,91 @@
 # 💫 Hi 👋, I'm Soumen Kundu  
-**Software Engineer | Java Developer | IBM FileNet Administrator from India**
+**Aspiring Data Analyst | Software Engineer | IBM FileNet Administrator**  
+📍 India
 
-📧 **Email Me:** [worksoumen14@gmail.com](mailto:worksoumen14@gmail.com) — for collaboration, projects, or just to connect!  
+📧 **Email:** [worksoumen14@gmail.com](mailto:worksoumen14@gmail.com)  
 🌍 **Portfolio:** [soumen77.github.io](https://soumen77.github.io/)  
 
 ---
 
 ## 🚀 About Me
-- 🔭 **Currently working on:** FileNet P8 Migration Project  
-- 🌱 **Learning:** Data Analyst
-- 🤝 **Looking to collaborate on:** AI Modules, Java, SQL, and FileNet P8 projects  
-- 💬 **Ask me about:** Java, SQL, FileNet P8, IBM Datacap  
-- 📫 **How to reach me:** [worksoumen14@gmail.com](mailto:worksoumen14@gmail.com)  
-- ⚡ **Fun fact:** I love dancing — and dancing seems to love me back 💃  
+I am a **Software Engineer with 2+ years of experience** in enterprise content management and Java-based applications, currently transitioning into the **Data Analytics** domain. I enjoy transforming raw data into meaningful insights and building dashboards that support data-driven decision-making.
+
+- 🔭 **Currently working on:** IBM FileNet P8 Migration Project  
+- 🌱 **Currently learning:** Data Analytics (Excel, SQL, Power BI, Python)  
+- 📊 **Aspiring role:** Data Analyst / Business Analyst  
+- 🤝 **Open to collaborate on:** Data Analytics, Power BI, SQL, Python, Java & ECM projects  
+- 💬 **Ask me about:** Data Analysis, SQL, Power BI, Java, IBM FileNet P8  
+- ⚡ **Fun fact:** I love dancing 💃 — and data storytelling too!
 
 ---
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumen.kundu.3597789)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_tutu.14)
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumenkundu)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/soumenk37741030)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@soumenkundu4055)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:worksoumen14@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/soumen77)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:worksoumen14@gmail.com)
 
 ---
 
-## 💻 Programming & Development
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 📊 Data Analytics Skills
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-## 🛠 Tools & Platforms
-![IBM FileNet P8](https://img.shields.io/badge/FileNet%20P8-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
+## 📈 Data Analytics Focus Areas
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Dashboard & Report Building  
+- KPI Analysis & Business Insights  
+- Data Visualization & Storytelling  
+- SQL Querying & Analysis  
+
+---
+
+## 💻 Software Development Background
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 🛠 Enterprise Tools & Platforms
+![IBM FileNet P8](https://img.shields.io/badge/IBM%20FileNet%20P8-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Datacap](https://img.shields.io/badge/IBM%20Datacap-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Content Navigator](https://img.shields.io/badge/IBM%20Content%20Navigator-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
 ![WAS](https://img.shields.io/badge/WebSphere%20Application%20Server-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM Datacap](https://img.shields.io/badge/Datacap-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM Content Navigator](https://img.shields.io/badge/Content%20Navigator-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ## 🗄 Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ---
 
-## 💿 Operating Systems
-![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?style=for-the-badge&logo=windows11&logoColor=white)
-![Windows Server 2012](https://img.shields.io/badge/Windows%20Server%202012-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Server 2016](https://img.shields.io/badge/Windows%20Server%202016-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-
 ## 📜 Certifications
-- **PHP With MYSQL**
-- **Career Essentials in Data Analysis by Microsoft and LinkedIn**
+- **Career Essentials in Data Analysis – Microsoft & LinkedIn**
+- **PHP with MySQL**
 - **AI Tools Workshop**
+
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=soumen77&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=soumen77&theme=blue-green&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumen77&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=soumen77&theme=blue-green&hide_border=false&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=soumen77&theme=blue-green)
 
 ---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soumen77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=soumen77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
