@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Soumen Kundu  
-**Aspiring Data Analyst | Software Engineer | IBM FileNet Administrator**  
+**Aspiring Data Analyst | IBM FileNet Administrator**  
 📍 India
 
 📧 **Email:** [worksoumen14@gmail.com](mailto:worksoumen14@gmail.com)  
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I am a **Software Engineer with 2+ years of experience** in enterprise content management and Java-based applications, currently transitioning into the **Data Analytics** domain. I enjoy transforming raw data into meaningful insights and building dashboards that support data-driven decision-making.
+I am an **Aspiring Data Analyst with 2 years of experience** in enterprise content management and Java-based applications, currently transitioning into the **Data Analytics** domain. I enjoy transforming raw data into meaningful insights and building dashboards that support data-driven decision-making.
 
 - 🔭 **Currently working on:** Data Analytics Project  
 - 🌱 **Currently learning:** Data Analytics (Excel, SQL, Power BI, Python)  
